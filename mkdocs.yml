@@ -1,0 +1,20 @@
+site_name: Vikrant Singh Tomar // विक्रांत सिंह तोमर 
+nav:
+        - About me: index.md
+        - Thought Leadership: thought-leadership.md
+        - Patents and Publications : publications.md
+theme:
+        name: 'material'
+        palette:
+                primary: 'deep purple'
+                accent: 'light blue'
+        font:
+                text: 'Hind'
+                code: 'Roboto Mono'
+#        icon:
+#                logo: fontawesome/user-astronaut
+        feature:
+                - tabs
+markdown_extensions:
+        - admonition
+        - attr_list
