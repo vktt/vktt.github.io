@@ -4,7 +4,8 @@
  <!-- <img style="float: left;margin: 5px 10px;" width="200" height="200" src="pics/vikrant.jpg" alt="Vikrant-photo"> <br> -->
 
 
-<img src="pics/vikrant.jpg" alt="Vikrant-photo" style="float:left;width:200px;height:200px;margin: 5px 50px;">
+<!-- <img src="pics/vikrant.jpg" alt="Vikrant-photo" style="float:left;width:200px;height:200px;margin: 5px 50px;">
+-->
 
 ### How to connect
 - [LinkedIn](https://www.linkedin.com/in/vktt){target=_blank}
