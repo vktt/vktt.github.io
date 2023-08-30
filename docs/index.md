@@ -19,7 +19,7 @@
 <br>
 
 ## Profile Summary
-- I am an experienced, driven, and entrepreneurial professional with extensive background in building and leading artificial-intelligence/machine-learning oragnizations. 
+- I am an experienced, driven, and entrepreneurial professional with extensive background in building and leading artificial-intelligence/machine-learning oragnizations.
 - Built [Fluent.ai inc.](https://www.fluent.ai){target=_blank} from zero into a well-known provider of on-device/offline speech recognition solutions.
     - Led the research and tech roadmap, patents and IP growth/acquisition plan, business as well as tech partnerships, and overall strategy of the company.
     - Led the development of tiny (≈ 40KB) deep learning models for speech recognition on low-power edge devices.
@@ -27,7 +27,7 @@
     - Built and grew partnerships with various chip manufacturers partners, such as, ARM, CEVA, DSPG, Ambiq, NXP, DSPC etc.
     - Contributed to sales and business development. Negotiated OEM/ODM deals.
     - Helped raise investments from angels and VCs over multiple rounds.
-- PhD in speech and AI. 
+- PhD in speech and AI.
 - Active research in AI/machine learning, deep learning, tinyML.
 
 ## More details
@@ -64,7 +64,7 @@ I earned my B.Tech. in Information and Communication Technology [ICT] from [Dhir
 
 ### End to End SLU special session at ICASSP 2020
 
-I am collaborating with three other researchers to organize **[End to End Spoken Language Understanding](https://sites.google.com/fluent.ai/icassp2020slu){target=_blank}** workshop at ICASSP 2020. Please see the link for more information.  
+I am collaborating with three other researchers to organize **[End to End Spoken Language Understanding](https://sites.google.com/fluent.ai/icassp2020slu){target=_blank}** workshop at ICASSP 2020. Please see the link for more information.
 
 
 
@@ -77,7 +77,7 @@ I am collaborating with three other researchers to organize **[End to End Spoken
 - [JNTT TATA Scholar](http://www.dorabjitatatrust.org/id/72/J.N.%20Tata%20Endowment%20for%20the%20Higher%20Education%20of%20Indians/){target=_blank}, 2009
 - [International Speech Communication Association Conference Grant](http://www.isca-speech.org/iscaweb/index.php/grants){target=_blank}, 2008
 
-<!-- 
+<!--
 == Reviews etc.
 - IEEE Transactions on Image Processing
 - IEEE/ACM Transactions on Audio, Speech, and Language Processing
@@ -105,20 +105,3 @@ I am collaborating with three other researchers to organize **[End to End Spoken
 #{Email.}{img_left}{pics/email.jpg}{Vikrant Tomar}
 #~~~
 -->
-
-
-<!-- Start of StatCounter Code -->
-<script type="text/javascript">
-var sc_project=4218365;
-var sc_invisible=1;
-var sc_security="bd1a538c";
-</script>
-
-<script type="text/javascript"
-src="http://www.statcounter.com/counter/counter.js"></script><noscript><div
-class="statcounter"><a title="vBulletin tracker"
-href="http://www.statcounter.com/vbulletin/"
-target="_blank"><img class="statcounter"
-src="http://c.statcounter.com/4218365/0/bd1a538c/1/"
-alt="vBulletin tracker" ></a></div></noscript>
-<!-- End of StatCounter Code -->
