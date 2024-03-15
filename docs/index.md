@@ -49,7 +49,9 @@ I earned my B.Tech. in Information and Communication Technology [ICT] from [Dhir
 
 
 ## Work Experience Summary
-- Fluent.ai Inc., Montreal, QC, Canada | Founder and CTO  | May 2015 -- Present
+- Avsr AI Inc., | CoFounder | **Stealth** -- More details soon.
+- RaceRocksRaceRocks., Vancouver, Canada | Head of Technology | May 2023 -- Sept 2023
+- Fluent.ai Inc., Montreal, QC, Canada | Founder and CTO  | May 2015 -- Oct 2022
 - Nuance Comm. Inc., Montreal, QC, Canada | Research Scientist  | Sept 2013 -- Feb 2014
 - Vestec Inc., Waterloo, ON, Canada | Research Scientist Consultant | May 2012 -- Dec 2012
 - McGill University, Montreal, QC, Canada | Teaching Assistant and Lecturer | 2010 - 2013 [various]
