@@ -9,16 +9,18 @@
 
 ### How to connect
 - [LinkedIn](https://www.linkedin.com/in/vktt){target=_blank}
-- [Mastodon: @vktt@masto.ai](https://masto.ai/@vktt){target=_blank}
 - [Chat on Matrix: @vktt:matrix.org](https://matrix.to/#/@vktt:matrix.org){target=_blank}
+- [Twitter](http://twitter.com/vikrantt){target=_blank} (_not very active_)
 
-<!-- - [Twitter](http://twitter.com/vikrantt){target=_blank} -->
+<!-- 
+- [Mastodon: @vktt@masto.ai](https://masto.ai/@vktt){target=_blank} -->
 - [Semantic Scholar](https://www.semanticscholar.org/author/Vikrant-Singh-Tomar/3315248){target=_blank}
 - [Google Scholar](https://scholar.google.ca/citations?user=VKLqZ2IAAAAJ&hl=en){target=_blank}
 
 <br>
 
 ## Profile Summary
+- Currently building [Avsr AI](https://www.avsr.io){target=_blank}: Autonomous versatile social robotics. 
 - I am an experienced, driven, and entrepreneurial professional with extensive background in building and leading artificial-intelligence/machine-learning oragnizations.
 - Built [Fluent.ai inc.](https://www.fluent.ai){target=_blank} from zero into a well-known provider of on-device/offline speech recognition solutions.
     - Led the research and tech roadmap, patents and IP growth/acquisition plan, business as well as tech partnerships, and overall strategy of the company.
@@ -32,13 +34,13 @@
 
 ## More details
 
-I founded [Fluent.ai](http://www.fluent.ai){target=_blank} and grew it, in my role as Founder and CTO, from zero to a well-known provider of speech recognition systemss. At Fluent.ai, we developed cutting-edge machine learning techniques for offline, on-device voice user interfaces targetted at tinyML, low-power embedded devices, smart-home devices, and wearables. We used a unique end-to-end spoken language understanding system. Unlike conventional speech recognition systems [speech --> text --> intent], these models do not require the intermediate text step and are able able to directly go from speech to intent, much like humans. Please see [the website](http://www.fluent.ai){target=_blank} for more details.
+Currently focused on building [Avsr AI](https://www.avsr.io){target=_blank}. At Avsr AI, we are creating an integrated framework for robotics that combines Generative AI for high-level planning with Reinforcement Learning for precise, low-level control. Our team has strong background in both AI and Robotics, and consists of experienced second-time entrepreneurs. With driving factors such as labor shortages, safety and increased efficiency, robotics and physical automation is potentially one of the most impactful opportunities in near future.
 
-My research interests are in the general area of artificial intelligence, particularly for speech and langauge understanding, but also beyond for vision, generative networks, reinforcement learning, etc. I completed my PhD from the Department of Electrical and Computer Engineering, at McGill University, Montreal, Canada. I was associated with the speech and language research group supervised by [Dr. Richard Rose](https://research.google.com/pubs/104847.html){target=_blank} [now at Google].
+Previosuly, I founded [Fluent.ai](http://www.fluent.ai){target=_blank} and grew it, in my role as Founder and CTO, from zero to a well-known provider of speech recognition systemss. At Fluent.ai, we developed cutting-edge machine learning techniques for offline, on-device voice user interfaces targetted at tinyML, low-power embedded devices, smart-home devices, and wearables. We used a unique end-to-end spoken language understanding system. Unlike conventional speech recognition systems [speech --> text --> intent], these models do not require the intermediate text step and are able able to directly go from speech to intent, much like humans. 
 
-Prior to joining McGill, I worked as a research fellow in the Dept. of Electrical Engineering at the [Indian Institute of Technology Bombay [IIT B]](http://www.iitb.ac.in){target=_blank}, Mumbai, India. I worked with the [Information Networks laboratory](https://www.ee.iitb.ac.in/~infonet/){target=_blank}. I was primarily associated with the TTSL IIT Bombay Center of Excellence in Telecommunications [TICET], one of the six Telecom Centers Of Excellence [TCOE] set up by the Department of Telecommunications [DoT], Govt. of India.
+My research interests are in the general area of artificial intelligence, language, robotics, generative networks, reinforcement learning, etc. I completed my PhD from the Department of Electrical and Computer Engineering, at McGill University, Montreal, Canada. I was associated with the speech and language research group supervised by [Dr. Richard Rose](https://research.google.com/pubs/104847.html){target=_blank} [now at Google].
 
-I earned my B.Tech. in Information and Communication Technology [ICT] from [Dhirubhai Ambani Institute of Information and Communication Technology [DA-IICT]](http://www.daiict.ac.in){target=_blank}, Gandhinagar, Gujarat, India in May 2008. During my stay at DA-IICT, I was affiliated with Communications and Signal Processing [CSP], NextGenWireless and Speech Communications research groups. I also served as the vice chair-person of IEEE student branch, DA-IICT for 2007-08.
+Prior to joining McGill, I worked as a research fellow in the Dept. of Electrical Engineering at the [Indian Institute of Technology Bombay [IIT B]](http://www.iitb.ac.in){target=_blank}, Mumbai, India. I was primarily associated with the TTSL IIT Bombay Center of Excellence in Telecommunications [TICET], one of the six Telecom Centers Of Excellence [TCOE] in India. I got my B.Tech. in Information and Communication Technology [ICT] from [Dhirubhai Ambani Institute of Information and Communication Technology [DA-IICT]](http://www.daiict.ac.in){target=_blank}, Gandhinagar, Gujarat, India.
 
 
 ## Education
@@ -49,7 +51,7 @@ I earned my B.Tech. in Information and Communication Technology [ICT] from [Dhir
 
 
 ## Work Experience Summary
-- Avsr AI Inc., | CoFounder | **Stealth** -- More details soon.
+- Avsr AI Inc., | CoFounder 
 - RaceRocksRaceRocks., Vancouver, Canada | Head of Technology | May 2023 -- Sept 2023
 - Fluent.ai Inc., Montreal, QC, Canada | Founder and CTO  | May 2015 -- Oct 2022
 - Nuance Comm. Inc., Montreal, QC, Canada | Research Scientist  | Sept 2013 -- Feb 2014
@@ -59,15 +61,10 @@ I earned my B.Tech. in Information and Communication Technology [ICT] from [Dhir
 
 ## Research Interests
 - General Artificial Intelligence
-- Reinforcement Learning
+- Reinforcement Learning, Imitation Learning
 - Speech and language processing including acoustic modeling, NLU, etc.
-- Machine learning for speech synthesis, deepfakes and other generative models
+- Generative AI, Transformers, Vision + Language + Action
 *Please refer to my recent [publications](./publications.html) for more details about my current area of work.*
-
-### End to End SLU special session at ICASSP 2020
-
-I am collaborating with three other researchers to organize **[End to End Spoken Language Understanding](https://sites.google.com/fluent.ai/icassp2020slu){target=_blank}** workshop at ICASSP 2020. Please see the link for more information.
-
 
 
 ## Awards and Grants (from student life era)
@@ -93,6 +90,7 @@ I am collaborating with three other researchers to organize **[End to End Spoken
 - MDPI Entropy
 - MDPI Computers
 - MDPI Applied Sciences
+I collaborated with three other researchers to organize **[End to End Spoken Language Understanding](https://sites.google.com/fluent.ai/icassp2020slu){target=_blank}** workshop at ICASSP 2020. 
 
 
 
