@@ -5,7 +5,7 @@ Given below are non-comprehensive lists of some of the events/presentations/publ
 - THD podcast, Jun 2021:  [On Youtube](https://www.youtube.com/watch?v=xWgD7IVCdko){target=_blank}
 - Talk at TinyML Summit, Apr 2021. [Using Neural Architecture Search for Speech Recognition on the Edge](https://www.youtube.com/watch?v=2AlBEWUcIq0&t=921s){target=_blank}
 - Panel at Embedded World Conference organized by Arm, March 2021. [Voice Control Made Simple](https://www.youtube.com/watch?v=fMDDFBLgWNI){target=_blank}
-- Presentation and Paper at Embedded World Conference, March 2021. "How to Drive Down the Cost and Power of On-Device Voice-Based Endpoints". Joint with Kobus Marneweck from Arm.
+- Joint Prez with Arm Prod. Man., Kobus Marneweck, and Paper at Embedded World Conference, March 2021. "How to Drive Down the Cost and Power of On-Device Voice-Based Endpoints".
 - TinyML Webinar Talk, Sept 2020.  TinyML. [Building low-power speech recognition solutions](https://www.youtube.com/watch?v=lTKBER89EJQ){target=_blank}
 - Arm AI Webinar, Aug 2020. [Building Speech recognition solutions for ARM Cortex M](https://www.youtube.com/watch?v=QDo_tOyKqRw){target=_blank}
 - Featured in [Digital Trends AI segment, Feb 2020](https://www.digitaltrends.com/digital-trends-live/episode-318/){target=_blank}
@@ -33,12 +33,11 @@ Given below are non-comprehensive lists of some of the events/presentations/publ
 - [Globe and Mail Article](https://www.theglobeandmail.com/business/rob-magazine/article-montreal-upstart-fluentais-goal-is-simple-recognizing-speech-in-any/){target=_blank}, Nov 2020.
 
 
-<!--
 
-## Fluent related
+## Fluent.ai related
 - [Wired: Montreal has reinvented itself as the world's AI startup powerhouse
 ](https://www.wired.co.uk/article/best-startups-montreal?utm_content=buffer33a64&utm_medium=social&utm_source=twitter.com&utm_campaign=)
-- https://www.designnews.com/consumer-electronics/12-best-innovations-ces-2020
+- https://www.designnews.com/consumer-electronics/12-best-innovations-ces-2020 
 - https://community.arm.com/developer/ip-products/processors/b/ml-ip-blog/posts/fluent-ai-multilingual-speech-recognition-arm-cortex-mcus
 - https://www.globenewswire.com/news-release/2021/06/10/2245377/0/en/Fluent-ai-Launches-Partnership-with-BSH-to-Voice-Automate-the-Assembly-Line-Increasing-Efficiency-and-Improving-Factory-Worker-Ergonomics.html
 
